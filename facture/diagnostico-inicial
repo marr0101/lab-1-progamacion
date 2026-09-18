@@ -1,0 +1,19 @@
+const DESCUENTO = 0.07;
+
+function calcularTotalConDescuento(cantidad, precioUnitario) {
+    if (cantidad <= 0 || precioUnitario <= 0) {
+        return 0;
+    }
+
+    return cantidad * precioUnitario * (1 - DESCUENTO);
+}
+
+const cantidadProductos = 10;
+const precioUnitario = 20;
+
+const total = calcularTotalConDescuento(
+    cantidadProductos,
+    precioUnitario
+);
+
+console.log('Total:', total);
