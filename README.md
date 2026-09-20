@@ -1,9 +1,4 @@
-# Laboratorio 1 — Diagnóstico técnico y flujo colaborativo
-
-## Integrantes
-
-- Integrante 1: TU NOMBRE
-- Integrante 2: NOMBRE DEL COMPAÑERO
+# Laboratorio 1 — Diagnóstico técnico y flujo colaborati
 
 ## Objetivo
 
